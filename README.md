@@ -1,4 +1,11 @@
-### Hi there 👋
+## Olá, seja bem-vindo(a) ao meu repositório GIT!</p>
+
+<p align="center"><br>Me chamo Eurico Leles e sou um designer em transição de carreira, de volta para o foco total em desenvolvimento depois de alguns anos.<p>
+
+
+- :books: Estudo Engenharia de Software na <a href="https://www.42sp.org.br" target="_blank">42 São Paulo</a> e também estou me atualizando para atuar como desenvolvedor Front End.
+- :bulb: Foco Atual: `C` , `Javascript`, `React`, `HTML` e `CSS`
+
 
 <!--
 **oleles/oleles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
